@@ -5,3 +5,4 @@ edition = "2018"
 
 [dependencies]
 libc = "0.2.98"
+rusty_v8 = "0.25.3"
